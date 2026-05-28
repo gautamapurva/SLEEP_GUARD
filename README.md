@@ -19,7 +19,7 @@ Setup Instructions
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/sleep-guard.git
+[git clone https://github.com/yourusername/sleep-guard.git](https://github.com/gautamapurva/SLEEP_GUARD.git)
 cd sleep-guard
 Configure the Alarm:
 Update the ALARM_SOUND_FILE variable in main.py to point to your preferred .mp3 or .wav file:
